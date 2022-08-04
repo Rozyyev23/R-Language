@@ -1,0 +1,4 @@
+chcp 65001
+D:
+cd Розыев Ата
+start resultTab.csv
